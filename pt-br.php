@@ -252,6 +252,10 @@ return [
     'It is important to prefix the form fields with <strong>form[...]</strong>.' => 'É important prefixar os campos do formulário com <strong>Formulário[...]</strong>.',
     'It seems you don\'t have any form entries.' => 'Parece que você não possui nenhum registro de formulários.',
     'Form data' => 'Dados de formulário',
+    'Leave the email field empty if you don\'t want to recieve any form data via email.' => 'Deixe o campo email vazio se você não quiser receber qualquer dado via email.',
+    'Export data' => 'Exportar Dados',
+    'Empty table' => 'Esvaziar tabela',
+    'Email form data to this address' => 'Os dados do formulário serão enviados para este endereço de email',
     
     // Galleries
     'Galleries' => 'Galerias',
